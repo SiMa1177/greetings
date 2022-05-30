@@ -15,7 +15,7 @@ You may contribute in plenty of ways. Some of the most appropriate ones can be:
 Make sure following two good practices while contributing and pushing the updates:  
 1. you are working on a new branch  
 2. you are making changes in suitale / correct directory only  
-3. your code is named like `heloworld.<extention>`  
+3. your code is named like `helloworld.<extention>`  
 3. cross validating your updates  
 
 Feel free to contribute and don't forget that you may raise `issues` if needed, too. Happy contributing!!  
