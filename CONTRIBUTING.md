@@ -68,7 +68,7 @@ Here's how you can contribute to greetings:
 3. **Create a New Branch:**
    - Create a new branch for your contribution. Choose a descriptive branch name:
      ```
-     $ git checkout -b feature-or-fix-name
+     $ git checkout -b your-username/feature-or-fix-name
      ```
 
 4. **Make Changes:**
@@ -80,18 +80,19 @@ Here's how you can contribute to greetings:
 6. **Commit Your Changes:**
    - Commit your changes with a clear and concise commit message:
      ```
-     $ git commit -m "Your message here"
+     $ git commit -m "Your message here related to updates or fix"
      ```
 
 7. **Push to Your Fork:**
    - Push your changes to your fork on GitHub:
      ```
-     $ git push origin feature-or-fix-name
+     $ git push origin your-username/feature-or-fix-name
      ```
+   - After first push, you can simply use `git push` to push changes to your fork.
 
 8. **Create a Pull Request:**
    - Go to the [greetings repository](https://github.com/HackX-DUK/greetings) on GitHub.
-   - Click on "New Pull Request" and follow the prompts to create a pull request. Provide a clear title and description.
+   - Click on "New Pull Request" and follow the prompts to create a pull request from target branch at your fork. Provide a clear title and description for faster acceptance/feedback.
 
 9. **Code Review:**
    - Your pull request will be reviewed by project maintainers. Be prepared to address any feedback or make necessary changes.
